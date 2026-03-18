@@ -10,5 +10,5 @@ CodeGotchi, React Native ve Expo kullanılarak geliştirilmiş, "vibe coding" ve
 - **Başarımlar (Badges):** Belli seviyelere ulaşıldığında "🔥 Junior Dev" ve "🏆 Senior Pet" gibi rozetlerin kilidi açılır.
 
 ## 📦 İndirilebilir Dosyalar ve Linkler
-- **APK İndir:** [Buraya APK Linkini Ekleyeceğiz]
+- **APK İndir: https://github.com/umitefe00/codegotchi/releases/download/v1.0.0/application-c9e48739-bf58-4c0e-85c0-9abc5c28b2c3.apk
 - **Proje Tanıtım Videosu: https://youtube.com/shorts/yRdI1vg5QhE
